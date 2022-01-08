@@ -32,14 +32,7 @@ expressions or emotions and then deploy the model. The model is trained on the F
 • This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions -angry, 
 disgusted, fearful, happy, neutral, sad and surprised.
 • Here is the dataset link:- https://www.kaggle.com/msambare/fer2013
-• Emotion            Number of images for Training         Number of images for Testing
-angry                      3995                                  958 
-disgust                    436                                   111 
-fear                       4097                                  1024 
-happy                      7215                                  1774 
-sad                        4830                                  1247 
-surprised                  3171                                  831 
-neutral                    4965                                  1233 
+
 
 
 
