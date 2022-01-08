@@ -34,5 +34,6 @@ disgusted, fearful, happy, neutral, sad and surprised.
 • Here is the dataset link:- https://www.kaggle.com/msambare/fer2013
 
 
+Reference Research paper :- https://visionintelligence.github.io/FER
 
 
