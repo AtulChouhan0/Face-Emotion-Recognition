@@ -40,9 +40,13 @@ Reference Research paper :- https://visionintelligence.github.io/FER
 # Dependencies
 
 1 Python 3
+
 2 Tensorflow 2.0
+
 3 Streamlit
+
 4 Streamlit-Webrtc
+
 5 OpenCV
 
 # Model Creation
@@ -51,3 +55,25 @@ Reference Research paper :- https://visionintelligence.github.io/FER
 
 Deep learning is a very significant subset of machine learning because of its high performance across various domains. Convolutional Neural Network (CNN), is a powerful image processing deep learning type often using in computer vision that comprises an image and video recognition along with a recommender system and natural language processing ( NLP). CNN uses a multilayer system consists of the input layer, output layer, and a hidden layer that comprises multiple convolutional layers, pooling layers, fully connected layers. We will discuss all layers in the next section of the article while explaining the building of CNN.
 
+![CNNimage](https://user-images.githubusercontent.com/89415202/156639455-533468f9-45b1-45a7-86ee-e64ee6b72055.jpg)
+
+Got the  acurracy of 64%
+
+Steps involve
+
+![CNNimage](https://user-images.githubusercontent.com/85746056/146340966-1784d293-b84d-44d1-a9ef-1f89eaef5547.png)
+
+Accuracy and Loss Graph
+
+![CNNimage](https://user-images.githubusercontent.com/85746056/146380609-e4c175e5-9f26-4b6b-8595-c962d6e7acd7.png)
+
+The model which was created using CNN that gave training accuracy of 74% and validation accuracy of 65%.
+
+
+# Deployment in Streamlit webapp
+
+Note : please try to start by selecting device, ignore the error code shown press start()
+: https://share.streamlit.io/mmishra1092/face-emotion-recognition/main/app.py![image](https://user-images.githubusercontent.com/89415202/156641731-9194886b-64b2-4767-8b69-be8ee0d8d307.png)
+
+# Concluding Summary
+So Here, Finally We build a Web App by Using CNN model, which as training accuracy of 74% and validation accuracy of 64%
