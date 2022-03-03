@@ -51,13 +51,12 @@ Reference Research paper :- https://visionintelligence.github.io/FER
 
 # Model Creation
 
-#1. Using CNN with the help of Keras
+# Using CNN with the help of Keras
 
 Deep learning is a very significant subset of machine learning because of its high performance across various domains. Convolutional Neural Network (CNN), is a powerful image processing deep learning type often using in computer vision that comprises an image and video recognition along with a recommender system and natural language processing ( NLP). CNN uses a multilayer system consists of the input layer, output layer, and a hidden layer that comprises multiple convolutional layers, pooling layers, fully connected layers. We will discuss all layers in the next section of the article while explaining the building of CNN.
 
 ![CNNimage](https://user-images.githubusercontent.com/89415202/156639455-533468f9-45b1-45a7-86ee-e64ee6b72055.jpg)
 
-Got the  acurracy of 64%
 
 Steps involve
 
